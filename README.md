@@ -29,5 +29,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owofufu&" alt="owofufu" /></p>
 
-** My GitHub Contributions
-![snake animation](https://github.com/OwOFuFu/OwOFuFu/blob/output/github-contribution-grid-snake2.svg)
+** 🧑‍💻 My GitHub Contributions
+![snake animation](https://github.com/OwOFuFu/OwOFuFu/blob/output/github-contribution-grid-snake.svg)
