@@ -22,10 +22,8 @@
 
 <p><a href="https://ko-fi.com/owofufu"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="owofufu" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owofufu&show_icons=true&locale=en&layout=compact" alt="owofufu" /></p>
+<p><img align="top left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owofufu&show_icons=true&locale=en&layout=compact" alt="owofufu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owofufu&show_icons=true&locale=en" alt="owofufu" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=owofufu&" alt="owofufu" /></p>
+<p><img align="top right" src="https://github-readme-stats.vercel.app/api?username=owofufu&show_icons=true&locale=en" alt="owofufu" /></p>
 
 ![snake animation](https://github.com/OwOFuFu/OwOFuFu/blob/output/github-contribution-grid-snake2.svg)
