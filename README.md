@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm OwOFuFu</h1>
-<div align="center"> <img src="https://imgur.com/aSHRVkd.png" alt="owofufu">
-<h3 align="center">OwOFuFu, a 21-year-old developer with a passion for both music and programming. When I'm not strumming the guitar, I'm diving into the world of programming languages, exploring and building projects in various contexts. I'm enthusiastic about problem-solving and continuously learning, and GitHub is my virtual lab where I share my experiments and collaborate with other tech enthusiasts. If you're up for discussing music, code, or anything in between, feel free to reach out! 🎸💻</h3>
+<h1 align="center">Hi 👋, I'm UnStacks</h1>
+<div align="center"> <img src="https://imgur.com/aSHRVkd.png" alt="unstacks">
+<h3 align="center">UnStacks, a 21-year-old developer with a passion for both music and programming. When I'm not strumming the guitar, I'm diving into the world of programming languages, exploring and building projects in various contexts. I'm enthusiastic about problem-solving and continuously learning, and GitHub is my virtual lab where I share my experiments and collaborate with other tech enthusiasts. If you're up for discussing music, code, or anything in between, feel free to reach out! 🎸💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owofufu&label=Profile%20views&color=0e75b6&style=flat" alt="owofufu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unstackss&label=Profile%20views&color=0e75b6&style=flat" alt="unstacks" /> </p>
 
 - 🔭 I’m currently working on [HexaEcon](https://www.spigotmc.org/resources/hexaecon-economy-system.109871/)
 
@@ -10,11 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/owofufu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owofufu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/owofufu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owofufu" height="30" width="40" /></a>
-<a href="https://codesandbox.com/owofufu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="owofufu" height="30" width="40" /></a>
-<a href="https://fb.com/owofufu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="owofufu" height="30" width="40" /></a>
-<a href="https://discord.gg/PXduDtXKYD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="owofufu" height="30" width="40" /></a>
+<a href="https://twitter.com/unstackss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unstackss" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/unstackss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unstackss" height="30" width="40" /></a>
+<a href="https://codesandbox.com/unstackss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="unstackss" height="30" width="40" /></a>
+<a href="https://fb.com/unstackss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unstackss" height="30" width="40" /></a>
+<a href="https://discord.gg/PXduDtXKYD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="unstackss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
