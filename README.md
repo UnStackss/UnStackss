@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm UnStacks</h1>
-<div align="center"> <img src="https://imgur.com/aSHRVkd.png" alt="unstacks">
+<div align="center"> <img src="https://i.imgur.com/PzcCMCW.png" alt="unstacks">
 <h3 align="center">UnStacks, a 21-year-old developer with a passion for both music and programming. When I'm not strumming the guitar, I'm diving into the world of programming languages, exploring and building projects in various contexts. I'm enthusiastic about problem-solving and continuously learning, and GitHub is my virtual lab where I share my experiments and collaborate with other tech enthusiasts. If you're up for discussing music, code, or anything in between, feel free to reach out! 🎸💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unstackss&label=Profile%20views&color=0e75b6&style=flat" alt="unstacks" /> </p>
