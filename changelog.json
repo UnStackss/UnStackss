@@ -31,6 +31,42 @@
     {
       "version": "1.7.0",
       "description": "Optimized data fetching from remote JSON source."
+    },
+    {
+      "version": "1.8.0",
+      "description": "Implemented real-time network connection tracking for all apps."
+    },
+    {
+      "version": "1.9.0",
+      "description": "Added vibration feedback when starting/stopping the network tracking service."
+    },
+    {
+      "version": "1.10.0",
+      "description": "Improved notification management for background services."
+    },
+    {
+      "version": "1.11.0",
+      "description": "Added logging for inbound and outbound connections."
+    },
+    {
+      "version": "1.12.0",
+      "description": "Enhanced network tracking to log all types of connections, not just WiFi and mobile data."
+    },
+    {
+      "version": "1.13.0",
+      "description": "Implemented notification for every connection change event."
+    },
+    {
+      "version": "1.14.0",
+      "description": "Introduced timestamp logging for each network event."
+    },
+    {
+      "version": "1.15.0",
+      "description": "Refined UI for toggling network tracking service."
+    },
+    {
+      "version": "1.16.0",
+      "description": "Improved permission handling for foreground services."
     }
   ]
 }
