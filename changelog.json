@@ -67,6 +67,10 @@
     {
       "version": "1.16.0",
       "description": "Improved permission handling for foreground services."
+    },
+    {
+      "version": "1.17.0",
+      "description": "Set latency to 0 ms and static red chart when service is stopped."
     }
   ]
 }
