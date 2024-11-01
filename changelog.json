@@ -2,75 +2,93 @@
   "changelog": [
     {
       "version": "1.0.0",
-      "description": "Initial release."
+      "description": "Initial release.",
+      "timestamp": "2024-01-01 10:00:00"
     },
     {
       "version": "1.1.0",
-      "description": "Added Vulnerability Scanner."
+      "description": "Added Vulnerability Scanner.",
+      "timestamp": "2024-01-10 11:30:00"
     },
     {
       "version": "1.2.0",
-      "description": "Support for dark theme."
+      "description": "Support for dark theme.",
+      "timestamp": "2024-01-15 14:00:00"
     },
     {
       "version": "1.3.0",
-      "description": "Implemented dynamic wavy line chart for service latency visualization."
+      "description": "Implemented dynamic wavy line chart for service latency visualization.",
+      "timestamp": "2024-01-20 09:00:00"
     },
     {
       "version": "1.4.0",
-      "description": "Refactored changelog fetching to use a coroutine with proper threading."
+      "description": "Refactored changelog fetching to use a coroutine with proper threading.",
+      "timestamp": "2024-01-25 12:00:00"
     },
     {
       "version": "1.5.0",
-      "description": "Improved UI elements for better responsiveness and aesthetics."
+      "description": "Improved UI elements for better responsiveness and aesthetics.",
+      "timestamp": "2024-02-01 15:30:00"
     },
     {
       "version": "1.6.0",
-      "description": "Added service status card with live updates."
+      "description": "Added service status card with live updates.",
+      "timestamp": "2024-02-05 10:15:00"
     },
     {
       "version": "1.7.0",
-      "description": "Optimized data fetching from remote JSON source."
+      "description": "Optimized data fetching from remote JSON source.",
+      "timestamp": "2024-02-10 14:45:00"
     },
     {
       "version": "1.8.0",
-      "description": "Implemented real-time network connection tracking for all apps."
+      "description": "Implemented real-time network connection tracking for all apps.",
+      "timestamp": "2024-02-15 11:20:00"
     },
     {
       "version": "1.9.0",
-      "description": "Added vibration feedback when starting/stopping the network tracking service."
+      "description": "Added vibration feedback when starting/stopping the network tracking service.",
+      "timestamp": "2024-02-20 13:10:00"
     },
     {
       "version": "1.10.0",
-      "description": "Improved notification management for background services."
+      "description": "Improved notification management for background services.",
+      "timestamp": "2024-02-25 09:30:00"
     },
     {
       "version": "1.11.0",
-      "description": "Added logging for inbound and outbound connections."
+      "description": "Added logging for inbound and outbound connections.",
+      "timestamp": "2024-03-01 16:00:00"
     },
     {
       "version": "1.12.0",
-      "description": "Enhanced network tracking to log all types of connections, not just WiFi and mobile data."
+      "description": "Enhanced network tracking to log all types of connections, not just WiFi and mobile data.",
+      "timestamp": "2024-03-05 14:30:00"
     },
     {
       "version": "1.13.0",
-      "description": "Implemented notification for every connection change event."
+      "description": "Implemented notification for every connection change event.",
+      "timestamp": "2024-03-10 11:00:00"
     },
     {
       "version": "1.14.0",
-      "description": "Introduced timestamp logging for each network event."
+      "description": "Introduced timestamp logging for each network event.",
+      "timestamp": "2024-03-15 10:45:00"
     },
     {
       "version": "1.15.0",
-      "description": "Refined UI for toggling network tracking service."
+      "description": "Refined UI for toggling network tracking service.",
+      "timestamp": "2024-03-20 15:00:00"
     },
     {
       "version": "1.16.0",
-      "description": "Improved permission handling for foreground services."
+      "description": "Improved permission handling for foreground services.",
+      "timestamp": "2024-03-25 12:30:00"
     },
     {
       "version": "1.17.0",
-      "description": "Set latency to 0 ms and static red chart when service is stopped."
+      "description": "Set latency to 0 ms and static red chart when service is stopped.",
+      "timestamp": "2024-03-30 11:15:00"
     }
   ]
 }
