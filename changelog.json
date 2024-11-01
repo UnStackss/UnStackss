@@ -89,6 +89,21 @@
       "version": "1.17.0",
       "description": "Set latency to 0 ms and static red chart when service is stopped.",
       "timestamp": "2024-03-30 11:15:00"
+    },
+    {
+      "version": "1.18.0",
+      "description": "Fixed bugs related to UI responsiveness during scanning.",
+      "timestamp": "2024-04-01 10:00:00"
+    },
+    {
+      "version": "1.19.0",
+      "description": "Improved error handling for network requests.",
+      "timestamp": "2024-04-05 12:00:00"
+    },
+    {
+      "version": "1.20.0",
+      "description": "Added user feedback mechanism for scan results.",
+      "timestamp": "2024-04-10 14:30:00"
     }
   ]
 }
