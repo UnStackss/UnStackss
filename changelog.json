@@ -3,142 +3,142 @@
     {
       "version": "1.0.0",
       "description": "Initial release.",
-      "timestamp": "2024-01-01 10:00"
+      "timestamp": "2024-01-01 (10:00)"
     },
     {
       "version": "1.1.0",
       "description": "Added Vulnerability Scanner.",
-      "timestamp": "2024-01-10 11:30"
+      "timestamp": "2024-01-10 (11:30)"
     },
     {
       "version": "1.2.0",
       "description": "Support for dark theme.",
-      "timestamp": "2024-01-15 14:00"
+      "timestamp": "2024-01-15 (14:00)"
     },
     {
       "version": "1.3.0",
       "description": "Implemented dynamic wavy line chart for service latency visualization.",
-      "timestamp": "2024-01-20 09:00"
+      "timestamp": "2024-01-20 (09:00)"
     },
     {
       "version": "1.4.0",
       "description": "Refactored changelog fetching to use a coroutine with proper threading.",
-      "timestamp": "2024-01-25 12:00"
+      "timestamp": "2024-01-25 (12:00)"
     },
     {
       "version": "1.5.0",
       "description": "Improved UI elements for better responsiveness and aesthetics.",
-      "timestamp": "2024-02-01 15:30"
+      "timestamp": "2024-02-01 (15:30)"
     },
     {
       "version": "1.6.0",
       "description": "Added service status card with live updates.",
-      "timestamp": "2024-02-05 10:15"
+      "timestamp": "2024-02-05 (10:15)"
     },
     {
       "version": "1.7.0",
       "description": "Optimized data fetching from remote JSON source.",
-      "timestamp": "2024-02-10 14:45"
+      "timestamp": "2024-02-10 (14:45)"
     },
     {
       "version": "1.8.0",
       "description": "Implemented real-time network connection tracking for all apps.",
-      "timestamp": "2024-02-15 11:20"
+      "timestamp": "2024-02-15 (11:20)"
     },
     {
       "version": "1.9.0",
       "description": "Added vibration feedback when starting/stopping the network tracking service.",
-      "timestamp": "2024-02-20 13:10"
+      "timestamp": "2024-02-20 (13:10)"
     },
     {
       "version": "1.10.0",
       "description": "Improved notification management for background services.",
-      "timestamp": "2024-02-25 09:30"
+      "timestamp": "2024-02-25 (09:30)"
     },
     {
       "version": "1.11.0",
       "description": "Added logging for inbound and outbound connections.",
-      "timestamp": "2024-03-01 16:00"
+      "timestamp": "2024-03-01 (16:00)"
     },
     {
       "version": "1.12.0",
       "description": "Enhanced network tracking to log all types of connections, not just WiFi and mobile data.",
-      "timestamp": "2024-03-05 14:30"
+      "timestamp": "2024-03-05 (14:30)"
     },
     {
       "version": "1.13.0",
       "description": "Implemented notification for every connection change event.",
-      "timestamp": "2024-03-10 11:00"
+      "timestamp": "2024-03-10 (11:00)"
     },
     {
       "version": "1.14.0",
       "description": "Introduced timestamp logging for each network event.",
-      "timestamp": "2024-03-15 10:45"
+      "timestamp": "2024-03-15 (10:45)"
     },
     {
       "version": "1.15.0",
       "description": "Refined UI for toggling network tracking service.",
-      "timestamp": "2024-03-20 15:00"
+      "timestamp": "2024-03-20 (15:00)"
     },
     {
       "version": "1.16.0",
       "description": "Improved permission handling for foreground services.",
-      "timestamp": "2024-03-25 12:30"
+      "timestamp": "2024-03-25 (12:30)"
     },
     {
       "version": "1.17.0",
       "description": "Set latency to 0 ms and static red chart when service is stopped.",
-      "timestamp": "2024-03-30 11:15"
+      "timestamp": "2024-03-30 (11:15)"
     },
     {
       "version": "1.18.0",
       "description": "Fixed bugs related to UI responsiveness during scanning.",
-      "timestamp": "2024-04-01 10:00"
+      "timestamp": "2024-04-01 (10:00)"
     },
     {
       "version": "1.19.0",
       "description": "Improved error handling for network requests.",
-      "timestamp": "2024-04-05 12:00"
+      "timestamp": "2024-04-05 (12:00)"
     },
     {
       "version": "1.20.0",
       "description": "Added user feedback mechanism for scan results.",
-      "timestamp": "2024-04-10 14:30"
+      "timestamp": "2024-04-10 (14:30)"
     },
     {
       "version": "1.21.0",
       "description": "Updated real-time network tracking to include detailed latency metrics.",
-      "timestamp": "2024-04-15 10:30"
+      "timestamp": "2024-04-15 (10:30)"
     },
     {
       "version": "1.22.0",
       "description": "Introduced new UI components for enhanced user interaction.",
-      "timestamp": "2024-04-20 14:00"
+      "timestamp": "2024-04-20 (14:00)"
     },
     {
       "version": "1.23.0",
       "description": "Fixed critical bugs in network service management.",
-      "timestamp": "2024-04-25 11:45"
+      "timestamp": "2024-04-25 (11:45)"
     },
     {
       "version": "1.24.0",
       "description": "Enhanced logging features for better diagnostics.",
-      "timestamp": "2024-04-30 15:00"
+      "timestamp": "2024-04-30 (15:00)"
     },
     {
       "version": "1.25.0",
       "description": "Added new functionality for better network scanning capabilities.",
-      "timestamp": "2024-05-05 12:00"
+      "timestamp": "2024-05-05 (12:00)"
     },
     {
       "version": "1.26.0",
       "description": "Improved performance of data handling during scans.",
-      "timestamp": "2024-05-10 14:30"
+      "timestamp": "2024-05-10 (14:30)"
     },
     {
       "version": "1.27.0",
       "description": "Refined UI elements for enhanced user experience.",
-      "timestamp": "2024-05-15 10:00"
+      "timestamp": "2024-05-15 (10:00)"
     }
   ]
 }
