@@ -139,6 +139,31 @@
       "version": "1.27.0",
       "description": "Refined UI elements for enhanced user experience.",
       "timestamp": "2024-05-15 (10:00)"
+    },
+    {
+      "version": "1.28.0",
+      "description": "Aggiunta la possibilità di personalizzare le notifiche di errore.",
+      "timestamp": "2024-05-20 (14:30)"
+    },
+    {
+      "version": "1.29.0",
+      "description": "Added automatic update system for the application to notify and apply updates.",
+      "timestamp": "2024-05-25 (16:00)"
+    },
+    {
+      "version": "1.30.0",
+      "description": "Improved system performance with background tasks optimization.",
+      "timestamp": "2024-05-30 (10:30)"
+    },
+    {
+      "version": "1.31.0",
+      "description": "Enhanced error notification system with custom error message settings.",
+      "timestamp": "2024-06-05 (13:45)"
+    },
+    {
+      "version": "1.32.0",
+      "description": "Updated network tracking algorithm for more accurate latency readings.",
+      "timestamp": "2024-06-10 (15:00)"
     }
   ]
 }
