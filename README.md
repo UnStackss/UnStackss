@@ -47,25 +47,42 @@ A 23-year-old developer who thrives at the intersection of **code & creativity**
 
 ---
 
-## 📊 My GitHub Journey
+## 📊 My GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=strayvibes&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true)
+[![GitHub Followers](https://img.shields.io/github/followers/strayvibes?style=for-the-badge&logo=github)](https://github.com/strayvibes?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/strayvibes?style=for-the-badge&logo=github)](https://github.com/strayvibes)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strayvibes&layout=compact&theme=nord&hide_border=true&langs_count=8)
+| Metric | Badge |
+|--------|-------|
+| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=strayvibes&style=flat-square&color=blue) |
+| **Repositories** | ![Public Repos](https://img.shields.io/badge/Public%20Repos-View%20My%20Work-blue?style=flat-square&logo=github) |
+| **Total Commits** | ![Commits](https://img.shields.io/badge/Commits-Growing%20Daily-success?style=flat-square&logo=git) |
 
 </div>
+
+---
+
+## 💻 Development Stats
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=strayvibes&theme=nord&hide_border=true)
+```
+Programming Languages: JavaScript | TypeScript | Python | Node.js
+Contributions: Open Source & Community Driven
+Focus Areas: Web Dev | CLI Tools | Creative Coding
+```
 
 </div>
+
+**📈 Check out my GitHub profile for detailed contributions:**
+- Visit: [github.com/strayvibes](https://github.com/strayvibes)
+- See: All repositories, contributions, and projects
 
 ---
 
